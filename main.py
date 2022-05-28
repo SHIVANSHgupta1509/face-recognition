@@ -101,9 +101,9 @@ def change_pass():
     global nnew
     nnew = tk.Entry(master, width=25, fg="#3B69B4", relief='solid',font=('times', 12, ' bold '),show='*')
     nnew.place(x=180, y=80)
-    cancel=tk.Button(master,text="Cancel", command=master.destroy ,fg="WHITE"  ,bg="red" ,height=1,width=25 , activebackground = "white" ,font=('times', 10, ' bold '))
+    cancel=tk.Button(master,text="Cancel", command=master.destroy ,fg="#3B69B4"  ,bg="red" ,height=1,width=25 , activebackground = "white" ,font=('times', 10, ' bold '))
     cancel.place(x=200, y=120)
-    save1 = tk.Button(master, text="Save", command=save_pass, fg="WHITE", bg="#6E8898", height = 1,width=25, activebackground="white", font=('times', 10, ' bold '))
+    save1 = tk.Button(master, text="Save", command=save_pass, fg="#3B69B4", bg="#6E8898", height = 1,width=25, activebackground="white", font=('times', 10, ' bold '))
     save1.place(x=10, y=120)
     master.mainloop()
 
@@ -166,7 +166,7 @@ def TakeImages():
             writer.writerow(columns)
             serial = 1
         csvFile1.close()
-    Id = (txt.get())
+    id = (txt.get())
     name = (txt2.get())
     if ((name.isalpha()) or (' ' in name)):
         cam = cv2.VideoCapture(0)
@@ -182,7 +182,7 @@ def TakeImages():
                 # incrementing sample number
                 sampleNum = sampleNum + 1
                 # saving the captured face in the dataset folder TrainingImage
-                cv2.imwrite("TrainingImage/" + name + "." + str(serial) + "." + Id + '.' + str(sampleNum) + ".jpg",
+                cv2.imwrite("TrainingImage/" + name + "." + str(serial) + "." + id + '.' + str(sampleNum) + ".jpg",
                             gray[y:y + h, x:x + w])
                 # display the frame
                 cv2.imshow('Taking Images', img)
@@ -194,8 +194,8 @@ def TakeImages():
                 break
         cam.release()
         cv2.destroyAllWindows()
-        res = "Images Taken for ID : " + Id
-        row = [serial, '', Id, '', name]
+        res = "Images Taken for ID : " + id
+        row = [serial, '', id, '', name]
         with open('StudentDetails/StudentDetails.csv', 'a+') as csvFile:
             writer = csv.writer(csvFile)
             writer.writerow(row)
