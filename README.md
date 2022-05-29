@@ -28,7 +28,7 @@ of face recognition for the project. Hence,I have built an attendance tracking s
 
 ## Demo
 
-[Presentation](https://docs.google.com/presentation/d/1waVl7XYMiyBcPmojogClKLXMNTf1AWMp/editusp=sharing&ouid=111868334499729832213&rtpof=true&sd=true)
+[Presentation](https://docs.google.com/presentation/d/1waVl7XYMiyBcPmojogClKLXMNTf1AWMp/edit?usp=sharing&ouid=111868334499729832213&rtpof=true&sd=true)
 
 [Video Demo](https://drive.google.com/file/d/1budmQnH0oKNKvxyOHOB__Wp8sPGLVMnM/view?usp=sharing)
 
