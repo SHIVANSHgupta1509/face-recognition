@@ -26,6 +26,12 @@ of face recognition for the project. Hence,I have built an attendance tracking s
 
 5.Displays live attendance updates for the day on the main screen in tabular format with Id, name, date and time.
 
+## Demo
+
+[Presentation](https://docs.google.com/presentation/d/1waVl7XYMiyBcPmojogClKLXMNTf1AWMp/editusp=sharing&ouid=111868334499729832213&rtpof=true&sd=true)
+
+[Video Demo](https://drive.google.com/file/d/1budmQnH0oKNKvxyOHOB__Wp8sPGLVMnM/view?usp=sharing)
+
 ## Requirements 
 
 Run requirements.sh to download all the required files to execute the program.
@@ -53,12 +59,6 @@ Attendance of all the students present on a particular date is also stored in CS
 <img width="912" alt="Screenshot 2022-05-27 at 8 54 05 AM" src="https://user-images.githubusercontent.com/77270883/170623045-5ab5ce69-2106-4b68-9632-048e6f4eea6d.png">
 
 <img width="854" alt="Screenshot 2022-05-27 at 8 56 19 AM" src="https://user-images.githubusercontent.com/77270883/170623189-307b7221-a20f-43de-8eaa-f38a4af26537.png">
-
-## Demo
-
-[Video Link](https://drive.google.com/file/d/1budmQnH0oKNKvxyOHOB__Wp8sPGLVMnM/view?usp=sharing)
-
-[Presentation Link](https://github.com/SHIVANSHgupta1509/face-recognition/files/8792545/Engage_final.pptx)
 
 ## Author
 
