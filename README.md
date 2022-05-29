@@ -28,27 +28,7 @@ of face recognition for the project. Hence,I have built an attendance tracking s
 
 ## Requirements 
 
-Python3 installed in the system
-
-Installing the required libraries by giving the below commands.
-
-pip install tk-tools
-
-pip install opencv-contrib-python
-
-pip install datetime
-
-pip install pytest-shutil
-
-pip install python-csv
-
-pip install numpy
-
-pip install pillow
-
-pip install pandas
-
-pip install times
+Run requirements.sh to download all the required files to execute the program.
 
 ## Screenshots
 
