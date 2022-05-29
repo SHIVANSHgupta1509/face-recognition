@@ -74,3 +74,20 @@ Attendance of all the students present on a particular date is also stored in CS
 
 <img width="854" alt="Screenshot 2022-05-27 at 8 56 19 AM" src="https://user-images.githubusercontent.com/77270883/170623189-307b7221-a20f-43de-8eaa-f38a4af26537.png">
 
+## Demo
+
+[Video Link](https://drive.google.com/file/d/1budmQnH0oKNKvxyOHOB__Wp8sPGLVMnM/view?usp=sharing)
+
+[Presentation Link](https://github.com/SHIVANSHgupta1509/face-recognition/files/8792545/Engage_final.pptx)
+
+## Author
+
+Shivansh Gupta 
+   
+   [LinkedIn](https://www.linkedin.com/in/shivansh-gupta-390318202/)
+   
+   [GitHub](https://github.com/SHIVANSHgupta1509)
+   
+   Email:shivanshgupta1509@gmail.com
+
+
