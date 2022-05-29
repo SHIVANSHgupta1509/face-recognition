@@ -80,6 +80,14 @@ Attendance of all the students present on a particular date is also stored in CS
 
 [Presentation Link](https://github.com/SHIVANSHgupta1509/face-recognition/files/8792545/Engage_final.pptx)
 
+## Author
 
+Shivansh Gupta 
+   
+   [LinkedIn](https://www.linkedin.com/in/shivansh-gupta-390318202/)
+   
+   [GitHub](https://github.com/SHIVANSHgupta1509)
+   
+   Email:shivanshgupta1509@gmail.com
 
 
